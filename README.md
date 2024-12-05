@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bracore1
 - 🌱 I’m currently learning blockchain
   I like cryptos
-nice 
+
 
 <!---
 bracore1/bracore1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
