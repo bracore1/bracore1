@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bracore1
 - 🌱 I’m currently learning blockchain
-  I like trading
+  I like crypto
 
 
 <!---
