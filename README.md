@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bracore1
-- 🌱 I’m currently learning blockchain
+- 🌱 I’m currently learning.
 
 
 
